@@ -104,12 +104,12 @@ document.addEventListener('DOMContentLoaded', () => {
   if (typeof Typed !== 'undefined') {
     new Typed('#typed-text', {
       strings: [
+        'Quality Reliability Engineer',
+        'Web Developer &amp; Designer',
         'IT Support Specialist',
-        'AI-native full-stack developer',
-        'Network Administrator',
         'Computer Technician',
-        'IT Technician',
-        'Cisco Certified (Ethical Hacker)',
+        'IT Student at LSPU',
+        'Cisco Certified – Ethical Hacker',
         'Team Leader',
         'Lifelong Learner',
       ],
